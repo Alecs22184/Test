@@ -1,5 +1,4 @@
-# "Hello , world!"
+# Hello 
 
-I study in Netology
-
-11.12.2024
+ Сайков Алексей Николаевич
+ 
